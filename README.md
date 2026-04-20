@@ -28,6 +28,7 @@ It is especially useful for:
 | Mark Egan, Ali Hortaçsu, Gregor Matvos | *Deposit Competition and Financial Fragility: Evidence from the US Banking Sector* | *American Economic Review* | 2016 | [Open](https://doi.org/10.3886/e231371v1) |
 | Víctor Aguirregabiria, Robert L. Clark, Wáng Huī | *The Geographic Flow of Bank Funding and Access to Credit: Branch Networks, Synergies, and Local Competition* | *American Economic Review* | 2025 | [Open](https://doi.org/10.3886/E213301V1) |
 | Jason Allen, Ali Hortaçsu, Jakub Kastl | *Crisis Management in Canada: Analyzing Default Risk and Liquidity Demand during Financial Stress* | *American Economic Journal: Microeconomics* | 2021 | [Open](https://www.openicpsr.org/openicpsr/project/119621/version/V3/view) |
+| Alma Cohen, Liran Einav | *Estimating Risk Preferences from Deductible Choice* | *American Economic Review* | 2007 | [Open](https://www.openicpsr.org/openicpsr/project/116274/version/V1/view) |
 
 ---
 
