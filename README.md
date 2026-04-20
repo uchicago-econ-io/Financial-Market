@@ -13,8 +13,8 @@ This repository is meant to make replication work in financial markets more acce
 
 It is especially useful for:
 
-- researchers studying credit, banking, and financial intermediation  
-- students working on banking and macro-finance  
+- researchers  
+- students  
 - instructors building replication-based coursework  
 
 ---
@@ -32,5 +32,5 @@ It is especially useful for:
 
 ## Additional Information
 
-Our private repository contains additional code and datasets from research papers related to **financial markets**, **production functions**, **pricing and market structure**, **search**, **health care markets**, **energy and environmental markets**, **demand estimation**, **digital markets**, **auctions**, and **vertical markets**, along with other conference topics.  
-Please complete the conference access form to request entry.
+Our private repository contains additional code and datasets from research papers related to **financial markets**.  
+Please complete the access form to request entry.
