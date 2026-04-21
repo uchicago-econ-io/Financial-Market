@@ -23,7 +23,6 @@ It is especially useful for:
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
-| Kyle Herkenhoff, Gajendran Raveendranathan | *Who Bears the Welfare Costs of Monopoly? The Case of the Credit Card Industry* | *Review of Economic Studies* | 2024 | [Open](https://zenodo.org/records/13769069) |
 | Gregory S. Crawford, Nicola Pavanini, Fabiano Schivardi | *Asymmetric Information and Imperfect Competition in Lending Markets* | *American Economic Review* | 2018 | [Open](https://doi.org/10.3886/E113054V1) |
 | Mark Egan, Ali Hortaçsu, Gregor Matvos | *Deposit Competition and Financial Fragility: Evidence from the US Banking Sector* | *American Economic Review* | 2016 | [Open](https://doi.org/10.3886/e231371v1) |
 | Víctor Aguirregabiria, Robert L. Clark, Wáng Huī | *The Geographic Flow of Bank Funding and Access to Credit: Branch Networks, Synergies, and Local Competition* | *American Economic Review* | 2025 | [Open](https://doi.org/10.3886/E213301V1) |
